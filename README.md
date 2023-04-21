@@ -2,6 +2,11 @@
 
 <h2>👨‍💻 Games Development Projects:</h2>
 
+- [Happy Halloween]
+- [Chirophobia]
+- [Skaaresh Shooter]
+- [Project Lotus]
+
 <h2>👨‍💻 Certifications:</h2>
 
 <h2> 🤳 Connect with me:</h2>
