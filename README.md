@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 Games Development Projects:</h2>
 
-- [Happy Halloween]
+- [Happy Halloween] https://github.com/Csjg2002/Happy-Halloween/blob/main/README.md
 - [Chirophobia]
-- [Skaaresh Shooter]
-- [Project Lotus]
 
 <h2>👨‍💻 Certifications:</h2>
 
