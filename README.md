@@ -3,7 +3,7 @@
 <h2>👨‍💻 Games Development Projects:</h2>
 
 - [Happy Halloween] https://github.com/Csjg2002/Happy-Halloween/blob/main/README.md
-- [Chirophobia]
+- [Chirophobia] https://github.com/Csjg2002/Chirophobia/blob/main/README.md
 
 <h2>👨‍💻 Certifications:</h2>
 
