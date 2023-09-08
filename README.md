@@ -10,7 +10,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Csjg2002 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Csjg2002 | YouTube" width="22px" src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/youtube-play-logo" />][youtube]
 [<img align="left" alt="Csjg2002 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UCmBxOy_52P6xECyGy9mN6lA
