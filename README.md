@@ -8,6 +8,8 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
+- [Catch22 Digital Edge traning course] https://github.com/Csjg2002/Catch22/blob/main/README.md
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Csjg2002 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
