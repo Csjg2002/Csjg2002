@@ -8,7 +8,7 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-- [Catch22 Digital Edge traning course] https://github.com/Csjg2002/Catch22/blob/main/README.md
+- [Catch22 Digital Edge training course] https://github.com/Csjg2002/Catch22/blob/main/README.md
 
 <h2> 🤳 Connect with me:</h2>
 
