@@ -11,6 +11,7 @@
 
 <h3>👨‍💻 Unity Projects:</h3>
 
+- [Skaaresh Shooter] https://github.com/Csjg2002/Skaaresh-Shooter/blob/main/README.md
 - [Kart Mania] https://github.com/Csjg2002/Kart-Mania/blob/main/README.md
 - [AR Furniture App] https://github.com/Csjg2002/AR-Furniture-App/blob/main/README.md
 
