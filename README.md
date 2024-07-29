@@ -17,12 +17,11 @@
 
 <h2>👨‍💻 Certifications:</h2>
 
-- [Unreal Engine 4: The Complete Beginner's Course] https://github.com/Csjg2002/Unreal-Engine-4-The-Complete-Beginners-Course/blob/main/README.md
-- [Digital Games Production: BTEC Level 3 (Year 1)] https://github.com/Csjg2002/BTEC1/blob/main/README.md
-- [Digital Games Production: BTEC Level 3 (Year 2)] https://github.com/Csjg2002/BTEC2/blob/main/README.md
-- [FdSc Digital Games Technologies] https://github.com/Csjg2002/FdSc/blob/main/README.md
 - [Catch22 Digital Edge training course] https://github.com/Csjg2002/Catch22/blob/main/README.md
-
+- [FdSc Digital Games Technologies] https://github.com/Csjg2002/FdSc/blob/main/README.md
+- [Digital Games Production: BTEC Level 3 (Year 2)] https://github.com/Csjg2002/BTEC2/blob/main/README.md
+- [Digital Games Production: BTEC Level 3 (Year 1)] https://github.com/Csjg2002/BTEC1/blob/main/README.md
+- [Unreal Engine 4: The Complete Beginner's Course] https://github.com/Csjg2002/Unreal-Engine-4-The-Complete-Beginners-Course/blob/main/README.md
 
 <h2> 🤳 Connect with me:</h2>
 
