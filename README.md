@@ -19,7 +19,7 @@ Hi, my name is Cameron. I have a background in Digital Games Design and Developm
 - [AR Furniture App] https://github.com/Csjg2002/AR-Furniture-App/blob/main/README.md
 - [Skaaresh Shooter] https://github.com/Csjg2002/Skaaresh-Shooter/blob/main/README.md
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>🧑‍🎓 Certifications:</h2>
 
 - [Catch22 Digital Edge training course] https://github.com/Csjg2002/Catch22/blob/main/README.md
 - [FdSc Digital Games Technologies] https://github.com/Csjg2002/FdSc/blob/main/README.md
