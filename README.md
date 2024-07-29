@@ -29,7 +29,7 @@ Hi, my name is Cameron. I have a background in Digital Games Design and Developm
 
 <h2>🤝 Connect with me:</h2>
 
-[<img align="left" alt="Csjg2002 | YouTube" width="22px" src="!https://github.com/user-attachments/assets/a2cd15e6-ccb2-4a0e-82e1-5a7fffad4b9e" />][youtube]
+[<img align="left" alt="Csjg2002 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Csjg2002 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UCmBxOy_52P6xECyGy9mN6lA
