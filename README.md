@@ -27,7 +27,7 @@ Hi, my name is Cameron. I have a background in Digital Games Design and Developm
 - [Digital Games Production: BTEC Level 3 (Year 1)] https://github.com/Csjg2002/BTEC1/blob/main/README.md
 - [Unreal Engine 4: The Complete Beginner's Course] https://github.com/Csjg2002/Unreal-Engine-4-The-Complete-Beginners-Course/blob/main/README.md
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤝 Connect with me:</h2>
 
 [<img align="left" alt="Csjg2002 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Csjg2002 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
