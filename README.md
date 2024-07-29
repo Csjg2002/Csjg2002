@@ -1,6 +1,6 @@
 <h1>Hi, I'm Cameron! <br/><a href="https://github.com/Csjg2002">First Class BSc (Hons) Games Technologies Graduate</a>
 
-<h2>👨‍💻 About Me:</h2>
+<h2>🤷‍♂️ About Me:</h2>
 
 Hi, my name is Cameron. I have a background in Digital Games Design and Development, and I am very passionate about games, software, and development. I have taken courses in both C# and Unreal Engine Blueprints, and I am confident using both Unreal Engine and Unity. I’m looking for a development role where I can use the knowledge and skills I have already gained to contribute to a company and attempt to build upon them. I am currently interning at Toastie Labs in Gateshead where I am gaining first hand experience in programming and working as a part of a team, as well as learning the ins and outs of how a games development studio works. I have also taken part in multiple forms of experience where I have worked on live briefs, learnt about workplace house-keeping audits, and learnt about the day-to-day running of both technology and design-based companies.
 
