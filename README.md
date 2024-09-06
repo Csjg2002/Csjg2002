@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cameron! <br/><a href="https://github.com/Csjg2002">First Class BSc (Hons) Games Technologies Graduate</a>
+<h1>Hi, I'm Cameron! <br/><a href="https://github.com/Csjg2002">Junior Developer at ToastieLabs</a>
 
 <h2>🤷‍♂️ About Me:</h2>
 
