@@ -2,7 +2,9 @@
 
 <h2>🤷‍♂️ About Me:</h2>
 
-Hi, my name is Cameron. I have a background in Digital Games Design and Development, and I am very passionate about games, software, and development. I have taken courses in both C# and Unreal Engine Blueprints, and I am confident using both Unreal Engine and Unity. Having recently graduated with a first class honours degree, I am now looking for a development role where I can use the knowledge and skills I have already gained to contribute to a company and attempt to build upon them. I am currently interning at Toastie Labs in Gateshead where I am gaining first hand experience in programming and working as a part of a team, as well as learning the ins and outs of how a games development studio works. I have also taken part in multiple forms of experience where I have worked on live briefs, learnt about workplace house-keeping audits, and learnt about the day-to-day running of both technology and design-based companies.
+Hi, my name is Cameron. I have a background in Digital Games Design and Development, and I am deeply passionate about games and game-related software. I have completed courses in C# and Unreal Engine Blueprints and I am confident using both Unreal Engine and Unity.
+
+After graduating with a first-class honours degree, I was offered a full-time role as a Junior Games Developer at Toastie Labs in Gateshead, where I had previously interned for seven months. In this role, I am working on an exciting new game project, gaining hands-on experience in programming, collaborating with a talented team, and learning the ins and outs of how a games development studio operates.
 
 <h2>🎮 Games Development Projects:</h2>
 
