@@ -12,8 +12,6 @@ After graduating with a first-class honours degree, I was offered a full-time ro
 
 <h3>👨‍💻 Unreal Engine Projects:</h3>
 
-- [Chirophobia] https://github.com/Csjg2002/Chirophobia/blob/main/README.md
-
 <h3>👨‍💻 Unity Projects:</h3>
 
 - [Crypt Creature Catcher] https://github.com/Csjg2002/CryptCreatureCatcher/blob/main/README.md
@@ -24,6 +22,7 @@ After graduating with a first-class honours degree, I was offered a full-time ro
 
 - [Munch Mob Madness] https://github.com/Csjg2002/Munch-Mob-Madness/blob/main/README.md
 - [Aathma] https://github.com/Csjg2002/Aathma/blob/main/README.md
+- [Chirophobia] https://github.com/Csjg2002/Chirophobia/blob/main/README.md
 - [Happy Halloween] https://github.com/Csjg2002/Happy-Halloween/blob/main/README.md
 
 <h3>👨‍💻 Unity Projects:</h3>
