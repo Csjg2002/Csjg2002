@@ -6,7 +6,9 @@ Hi, my name is Cameron. I have a background in Digital Games Design and Developm
 
 After graduating with a first-class honours degree, I was offered a full-time role as a Junior Games Developer at Toastie Labs in Gateshead, where I had previously interned for seven months. In this role, I am working on an exciting new game project, gaining hands-on experience in programming, collaborating with a talented team, and learning the ins and outs of how a games development studio operates.
 
-<h2>🎮 Games Development Projects:</h2>
+<h2>💼 Professional Projects:</h2>
+
+<h2>🎮 Personal Projects:</h2>
 
 <h3>👨‍💻 Unreal Engine Projects:</h3>
 
@@ -21,6 +23,8 @@ After graduating with a first-class honours degree, I was offered a full-time ro
 - [Kart Mania] https://github.com/Csjg2002/Kart-Mania/blob/main/README.md
 - [AR Furniture App] https://github.com/Csjg2002/AR-Furniture-App/blob/main/README.md
 - [Skaaresh Shooter] https://github.com/Csjg2002/Skaaresh-Shooter/blob/main/README.md
+
+<h2>📚 University Projects:</h2>
 
 <h2>🧑‍🎓 Certifications:</h2>
 
