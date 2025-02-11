@@ -2,7 +2,7 @@
 
 <h2>🤷‍♂️ About Me:</h2>
 
-Hi, my name is Cameron. I specialise in Digital Games Design and Development, and am proficient in both Unreal Engine and Unity, having completed courses in C# and Unreal Engine Blueprints.
+I specialise in Digital Games Design and Development, and am proficient in both Unreal Engine and Unity, having completed courses in C# and Unreal Engine Blueprints.
 
 After graduating with first-class honours, I joined Toastie Labs in Gateshead as a Junior Games Developer, following a seven-month internship. In this role, I’m currently co-leading the development of the team’s next major project in Unity.
 
