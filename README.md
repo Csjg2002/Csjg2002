@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cameron! <br/><a href="https://github.com/Csjg2002">Junior Developer at ToastieLabs</a>
+<h1>Hi, I'm Cameron! <br/><a href="https://github.com/Csjg2002">Former junior developer actively seeking new opportunities in games development.</a>
 
 <h2>🤷‍♂️ About Me:</h2>
 
