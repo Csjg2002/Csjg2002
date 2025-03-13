@@ -2,9 +2,9 @@
 
 <h2>🤷‍♂️ About Me:</h2>
 
-I specialise in Digital Games Design and Development, and am proficient in both Unreal Engine and Unity, having completed courses in C# and Unreal Engine Blueprints.
+I specialise in Digital Games Design and Development, and am proficient in both Unreal Engine and Unity, with a solid foundation in both C# and Unreal Engine Blueprints.
 
-After graduating with a first-class honours degree, I joined ToastieLabs in Gateshead as a Junior Games Developer, following a seven-month internship. In this role, I’m currently co-leading the development of the team’s next major project in Unity.
+After graduating with a first-class honours degree, I joined ToastieLabs in Gateshead as a Junior Games Developer, following a seven-month internship. During my time at ToastieLabs, I co-led the development of the team’s next major project in Unity.
 
 <h2>💼 Professional Projects:</h2>
 
