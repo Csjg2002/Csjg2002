@@ -17,6 +17,7 @@ After graduating with a first-class honours degree, I joined ToastieLabs in Gate
 
 <h3>👨‍💻 Unity Projects:</h3>
 
+- [Crypt Creature Catcher (Remake Version)] https://github.com/Csjg2002/CryptCreatureCatcher/blob/main/README.md
 - [Crypt Creature Catcher (LowRez Jam 2024 Version)] https://github.com/Csjg2002/CryptCreatureCatcher/blob/main/README.md
 
 <h2>📚 University Projects:</h2>
