@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cameron! <br/><a href="https://github.com/Csjg2002">Apprenctice Data Analyst At Zynk Software.</a>
+<h1>Hi, I'm Cameron! <br/><a href="https://github.com/Csjg2002">Apprentice Data Analyst At Zynk Software.</a>
 
 <h2>🤷‍♂️ About Me:</h2>
 
