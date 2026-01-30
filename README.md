@@ -4,7 +4,7 @@
 
 After graduating with a first-class honours degree, I joined ToastieLabs in Gateshead as a Junior Games Developer, following a seven-month internship. During my time there, I co-led the development of the team's next major Unity project.
 
-I’ve now made a career switch and I am excited to be working as an Apprentice Data Analyst at Zynk Software! I’m currently learning how to work with real-world data, build insights from datasets, and develop my skills in tools like Python and SQL.
+I’ve now made a career switch and am excited to be working as an Apprentice Data Analyst at Zynk Software! I’m currently learning how to work with real-world data, build insights from datasets, and develop my skills in tools like Python and SQL.
 
 <h2>💼 Professional Projects:</h2>
 
